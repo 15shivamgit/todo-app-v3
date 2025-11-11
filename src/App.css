@@ -1,0 +1,29 @@
+.heading{
+  color: #792323;
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.Todo-items{
+  text-align: left;
+}
+.sk-row{
+  margin: 10px 5px;
+}
+.sk-button{
+  min-width: 80px;
+}
+/* .btn-success{
+  margin-left: -85px;
+} */
+
+.WelcomeMsg{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+  border-bottom: 2px solid #792323;
+  display: inline;
+}
